@@ -14,7 +14,7 @@ In the future we are open for extending our tools range for general stackable mi
 # To be implemented
 
 - Automatic tracking of Horizon and Odyssey sessions.
-- Color and Ui placemant integration with the famous [EDHM](https://github.com/BlueMystical/EDHM_UI) made by Blue Mystical (o7 commander)
+- Color and Ui placemant integration with the famous [EDHM](https://github.com/BlueMystical/EDHM_UI) made by Blue Mystic (o7 commander)
 
 # Install
 
