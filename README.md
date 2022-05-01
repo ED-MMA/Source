@@ -6,8 +6,7 @@ In the future we are open for extending our tools range for general stackable mi
 # Features
 - Fully automatic massacre system mapping.
 - Fully automatic progress tracking.
-- Share your current progress with pressing just one button:
-
+- Share your current progress with pressing just one button in a formatted text for discord.
 - A station overview mode automatically displayed when you land to a station from which you completed mission, so you can easily distinguish which mission to share with your wing.
 - When you leave a station the interface will switch to a completed mission overview mode where you can chose which station you should go next.
 - When you jump to the target system the interface will switch to a progress tracker mode where it will show you the stack height from each faction and the missions' kill requirements.
