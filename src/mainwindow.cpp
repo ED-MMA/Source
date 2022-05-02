@@ -78,6 +78,7 @@ MainWindow::MainWindow(QWidget *parent)
 void MainWindow::RefreshTable(GlobalFactions const & data) {
     ui->tableWidget->clear();
     ui->tableWidget->setRowCount(data.getSize()+1);
+    ui->tableWidget->setColumnCount(0);
     int curr_row=0;
     int curr_col=0;
     vector<int> frags;
