@@ -39,6 +39,7 @@ EventDistributor::EventDistributor(MainWindow *MW, IO *Iapi, techlevi::data *dat
     connect(io,&IO::BountyCollected,Data,&techlevi::data::BountyCollected);
     connect(io,&IO::AddFileToFSWatcher,this,&EventDistributor::AddFileToFSWatcher);
     connect(io,&IO::JumpedToSystem,mw,&MainWindow::ExpandTree);
+    connect(io,&IO::JumpedToSystem,Data,&techlevi::data::JumpedToSystem);
     connect(mw,&MainWindow::requestTheorData,Data,&techlevi::data::calculateTheoreticalCompletion,Qt::DirectConnection);
     connect(mw,&MainWindow::requestStatistics,Data,&techlevi::data::getStatistics,Qt::DirectConnection);
     connect(mw,&MainWindow::requestUnifiedStatistics,Data,&techlevi::data::getUnifiedStatistics,Qt::DirectConnection);
