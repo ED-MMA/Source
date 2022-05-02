@@ -9,6 +9,8 @@ In the future we are open to extend our tools range for general stackable missio
 ![image](https://user-images.githubusercontent.com/54154570/166201750-270c8a55-f99f-48b7-86f3-9fb62001fedd.png)
 - An overlay of 2 important information: kills left to be made and current payout from missions
 ![image](https://user-images.githubusercontent.com/54154570/166201671-7381886c-4c31-4005-bdb6-23ce1de54c3a.png)
+Which you can reposition using another ui that you can find under the view option:
+![image](https://user-images.githubusercontent.com/54154570/166206429-33991696-a664-405e-81c2-e8eaa550e78b.png)
 - Share your current progress with pressing just one button in a formatted text for discord.
 - A station overview mode automatically displayed when you land to a station from which you completed mission, so you can easily distinguish which mission to share with your wing
 ![image](https://user-images.githubusercontent.com/54154570/166201893-730c2fbf-2468-4495-a185-beff000b65fa.png)
